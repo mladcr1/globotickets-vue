@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "app",
+			"path": "globotickets-vue",
+			"problemMatcher": [],
+			"label": "npm: app - globotickets-vue",
+			"detail": "npm run vue:build && node server/app.js"
+		}
+	]
+}
